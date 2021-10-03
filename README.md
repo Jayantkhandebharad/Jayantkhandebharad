@@ -15,11 +15,11 @@
 
 
 ### Connect with me:
-<a href="https://www.hackerrank.com/jntkhandebharad" ><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
 <a href="https://www.linkedin.com/in/jayantkhandebharad/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jayant_khandebharad/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
+	
 
 ### Languages and Tools:
 
@@ -38,7 +38,15 @@
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="26" />
   <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="26px" />
 <br />
+	
+### Follow me on:
+
+<a href="https://www.hackerrank.com/jntkhandebharad" ><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+<a href="https://www.codechef.com/users/jayantkhd" ><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+<a href="https://codeforces.com/profile/jayantkhd" ><img src="https://github.com/XCPCIO/Codeforces-Analytics/blob/main/public/favicon-16x16.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+
 <br />
+<br/>
 
 
 
