@@ -15,6 +15,7 @@
 
 
 ### Connect with me:
+<a href="https://www.hackerrank.com/jntkhandebharad" ><img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
 <a href="https://www.linkedin.com/in/jayantkhandebharad/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jayant_khandebharad/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
