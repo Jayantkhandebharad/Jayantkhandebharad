@@ -5,7 +5,6 @@
 
 
 
-
 - 🌱 I’m currently learning as much as I can.
 - 👯 I’m looking to collaborate for making quality projects.
 - 🥅 2021 Goals:to become full stack web development expert and contribute in open source projects.
