@@ -51,23 +51,24 @@
 
   <img align="left" alt="Jayant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jayantkhandebharad&show_icons=true&hide_border=true" />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayantkhandebharad)](https://git.io/streak-stats)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayantkhandebharad)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayantkhandebharad&layout=compact)](https://github.com/Jayantkhandebharad/github-readme-stats)
   
   
   
-<!--   
-  # ⚡ GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayantkhandebharad&" alt="Jayant khandebharad" /></p>
-<a href="https://github.com/Jayantkhandebharad/github-readme-activity-graph"><img alt="Jayants's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayantkhandebharad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-   -->
+
 
   
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
 
-
+<!--   
+  # ⚡ GitHub Stats:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayantkhandebharad&" alt="Jayant khandebharad" /></p>
+<a href="https://github.com/Jayantkhandebharad/github-readme-activity-graph"><img alt="Jayants's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jayantkhandebharad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+   -->
 
 
 
