@@ -1,18 +1,3 @@
-### Hi there, I'm Jayant!! 👋
-## I'm a Third year Computer Engineering Student at Pune Institute Of Computer Technology
-![](https://komarev.com/ghpvc/?username=Jayantkhandebharad)
-
-
-
-
-- 🌱 I’m currently learning as much as I can.
-- 👯 I’m looking to collaborate for making quality projects.
-- 🥅 2021 Goals:to become full stack web development expert and contribute in open source projects.
-
-
-
-
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/jayantkhandebharad/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jayant_khandebharad/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
