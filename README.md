@@ -14,10 +14,10 @@
 
 - 🔭 AI / GenAI Engineer at **CloudLex**, building multi-tenant **agentic-AI, RAG, and LLMOps** platforms on Python, LangGraph & Azure
 - ⚙️ I design **Python backends for LLM inference orchestration** — async workers, queues, and distributed data / RAG pipelines
-- 🤖 Into **multi-agent orchestration** (planning · memory · tool-use), **vector search & embeddings**, **prompt evaluation**, observability & Responsible AI
+- 🤖 Into **multi-agent orchestration** (planning · memory · tool-use), **RAG & embeddings**, **prompt evaluation**, **document & voice AI** (OCR, batch inference, PSTN callbots), observability & Responsible AI
 - 🌱 Currently learning **MLflow & Databricks** (LLMOps / MLOps at scale)
 - 🎓 B.E. Computer Science — **PICT, Pune**
-- 💬 Ask me about **LangGraph · RAG · FastAPI · Azure Container Apps · LLM cost & observability**
+- 💬 Ask me about **LangGraph · RAG · FastAPI · Azure Container Apps · LLM cost & observability · system design**
 
 ---
 
@@ -25,9 +25,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -37,7 +35,6 @@
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -54,10 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayantkhandebharad&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayantkhandebharad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
