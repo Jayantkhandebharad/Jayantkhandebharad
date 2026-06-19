@@ -3,9 +3,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayantkhandebharad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://jayantkhd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/khandebharad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jntkhandebharad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Pune,%20India-📍-0e75b6?style=flat" alt="Location" />
+</p>
+
+<p align="center">
+  🌐 <b>Portfolio &amp; case studies:</b> <a href="https://jayantkhd.vercel.app/">jayantkhd.vercel.app</a><br/>
+  <sub>Production GenAI systems, end-to-end — agentic platforms, RAG, voice AI &amp; LLMOps on Azure</sub>
 </p>
 
 
@@ -74,5 +80,7 @@
 ---
 
 <p align="center">
+  <a href="https://jayantkhd.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Visit%20my%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
   <a href="https://linkedin.com/in/khandebharad"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
